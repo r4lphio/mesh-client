@@ -20,17 +20,17 @@
   "version": "0.0.9",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ralphsmith80/mesh-client.git"
+    "url": "https://github.com/r4lphio/mesh-client.git"
   },
   "dependencies": {
     "js-yaml": "0.3.x",
-    "bedrockjs": "git://github.com/ralphsmith80/bedrockjs.git",
-    "gloss-vendor": "git://github.com/ralphsmith80/gloss-vendor.git"
+    "bedrockjs": "https://github.com/r4lphio/bedrockjs.git",
+    "gloss-vendor": "https://github.com/r4lphio/gloss-vendor.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
-    "grunting": "git://github.com/ralphsmith80/grunting.git"
+    "grunting": "https://github.com/r4lphio/grunting.git"
   },
   "csi": {
     "name": "mesh-client",
